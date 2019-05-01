@@ -1,2 +1,2 @@
 # tnakgame
-demo game, view on [gallery](https://vrml2.github.io/gallery/)
+demo game, view/play on [gallery](https://vrml2.github.io/gallery/)

@@ -96,6 +96,9 @@ DEF sc Script {
     }
     function MFFloatIn(value,tm){           
       disp.string[0] = colon ? name + ': ' + value : name + value;
+      browser.Println(disp)
+      browser.Println(name)
+      browser.Println(value)
     }
     function SFImageIn(value,tm){           
       disp.string[0] = colon ? name + ': ' + value : name + value;
